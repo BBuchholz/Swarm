@@ -1,2 +1,2 @@
 # Swarm
-Synergy Cloud Platform
+Synergy Cloud Platform, the heir apparent to Empyrean.
